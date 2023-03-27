@@ -26,7 +26,7 @@ function Navbar() {
           variant="h3"
           // align="center"
         >
-          Memories
+          Memorie
         </Typography>
         <img
           className={classes.image}
